@@ -13,4 +13,4 @@ if idade >= 16:
 else: 
     print("Você não está apto à votar. ")
 
-    
+.
